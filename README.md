@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a cloud storage application](https://storage.haydarr.net/)
 
-- 🌱 I’m currently learning **Microeconomics**
+- 🌱 I’m currently learning **Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://haydarr.net/](https://haydarr.net/)
 
